@@ -1,3 +1,9 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=skhaz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
+### Hey 👋, I'm Rodrigo Delduca
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skhaz&layout=compact)
+[![Github](https://img.shields.io/github/followers/skhaz?label=Follow&style=social)](https://github.com/skhaz)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skhaz&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skhaz&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skhaz&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skhaz&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skhaz&theme=github)
