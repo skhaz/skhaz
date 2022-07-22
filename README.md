@@ -2,6 +2,9 @@
 
 [![Github](https://img.shields.io/github/followers/skhaz?label=Follow&style=social)](https://github.com/skhaz) [![](https://img.shields.io/twitter/follow/skhaz?style=social)](https://twitter.com/skhaz)
 
+
+
+<a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" /></a>
 <a href="https://go.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="40" height="40" /></a>
