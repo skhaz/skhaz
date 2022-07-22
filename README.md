@@ -1,6 +1,10 @@
-### Hey 👋, I'm Rodrigo Delduca
+## Hey 👋, I'm Rodrigo Delduca
 
 [![Github](https://img.shields.io/github/followers/skhaz?label=Follow&style=social)](https://github.com/skhaz) [![](https://img.shields.io/twitter/follow/skhaz?style=social)](https://twitter.com/skhaz)
+
+Check out my [resume](https://gcs.skhaz.dev/resume.pdf).
+
+### Tools I Use
 
 <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" /></a>
