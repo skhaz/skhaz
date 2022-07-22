@@ -22,12 +22,12 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" /></a>
 
 <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" /></a>
 <a href="https://argoproj.github.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo" width="40" height="40" /></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" /></a>
 
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon AWS" width="40" height="40" /></a>
 <a href="https://www.cloudflare.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon AWS" width="40" height="40" /></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skhaz&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skhaz&theme=github)
