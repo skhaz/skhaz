@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/skhaz?label=Follow&style=social)](https://github.com/skhaz) [![](https://img.shields.io/twitter/follow/skhaz?style=social)](https://twitter.com/skhaz)
 
-Check out my [resume](https://gcs.skhaz.dev/resume.pdf).
+Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 
 ### Tools I Use
 
