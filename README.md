@@ -36,6 +36,8 @@
 - [Gunicorn hot reload with Docker Compose](https://nullonerror.org/2021/11/12/gunicorn-hot-reload-with-docker-compose/)
 <!-- BLOG:END -->
 
+### GitHub Stats
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skhaz&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skhaz&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skhaz&theme=github)
