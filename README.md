@@ -43,6 +43,7 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 - [Hosting Telegram bots on Cloud Run for free](https://nullonerror.org/2021/01/08/hosting-telegram-bots-on-google-cloud-run/)
 - [Periodically backup your Google Photos to Google Cloud Storage](https://nullonerror.org/2020/12/31/backup-your-google-photos-on-cloud/)
 <!-- BLOG:END -->
+<a target="_blank" href="https://nullonerror.org/">Read More</a></p>
 
 ### GitHub Stats
 
