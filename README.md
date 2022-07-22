@@ -33,6 +33,9 @@
 ### Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Add jemalloc to your Python Docker images](https://nullonerror.org/2022/03/16/add-jemalloc-to-your-python-docker-images/)
+- [Building a high scalable voting system](https://nullonerror.org/2022/03/12/building-a-high-scalable-voting-system/)
+- [Gunicorn hot reload with Docker Compose](https://nullonerror.org/2021/11/12/gunicorn-hot-reload-with-docker-compose/)
 <!-- BLOG:END -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skhaz&theme=github)
