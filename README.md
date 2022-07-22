@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/skhaz?label=Follow&style=social)](https://github.com/skhaz)
 
-![](https://komarev.com/ghpvc/?username=skhaz)
+![](https://komarev.com/ghpvc/?username=skhaz) [![](https://img.shields.io/twitter/follow/skhaz?style=social)](https://twitter.com/skhaz)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skhaz&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skhaz&theme=github)
