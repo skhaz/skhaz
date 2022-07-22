@@ -6,7 +6,14 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 
 ### Tools I Use
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<style>
+  @media (max-width:629px) {
+  img#moss {
+    display: none;
+  }
+}
+</style>
+<img id="moss" align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" /></a>
