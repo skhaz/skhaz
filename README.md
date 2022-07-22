@@ -20,6 +20,7 @@
 <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></a>
 <a href="https://www.couchbase.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="Couchbase" width="40" height="40" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mongodb-icon.svg" alt="MongoDB" width="40" height="40" /></a>
 
 <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" /></a>
 <a href="https://argoproj.github.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo" width="40" height="40" /></a>
