@@ -15,5 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: BLOG
-          max_post_count: 3
+          max_post_count: 6
           feed_list: "https://nullonerror.org/feed"
