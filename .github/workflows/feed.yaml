@@ -1,0 +1,22 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch: # Run workflow manually
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull NULL on Error posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: BLOG
+          commit_message: Update with the latest blog posts
+          committer_username: Rodrigo Delduca
+          committer_email: rodrigodelduca@gmail.com
+          max_post_count: 6
+          feed_list: "https://nullonerror.org/feed"
