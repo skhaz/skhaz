@@ -4,6 +4,8 @@
 
 Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 
+## Tools
+
 <img align="right" src="https://i.giphy.com/media/QQQoLTqkm7v3y/giphy.webp" />
 
 <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40" /></a>
