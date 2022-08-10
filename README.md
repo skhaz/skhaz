@@ -38,12 +38,12 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 ### Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Go RESTful APIs, The Practical Way](https://nullonerror.org/2022/07/30/go-restful-api-the-practical-way/)
 - [Add jemalloc to your Python Docker images](https://nullonerror.org/2022/03/16/add-jemalloc-to-your-python-docker-images/)
 - [Building a high scalable voting system](https://nullonerror.org/2022/03/12/building-a-high-scalable-voting-system/)
 - [Gunicorn hot reload with Docker Compose](https://nullonerror.org/2021/11/12/gunicorn-hot-reload-with-docker-compose/)
 - [Accessing Google Firestore on Vercel](https://nullonerror.org/2021/06/14/accessing-google-firestore-on-vercel/)
 - [Hosting Telegram bots on Cloud Run for free](https://nullonerror.org/2021/01/08/hosting-telegram-bots-on-google-cloud-run/)
-- [Periodically backup your Google Photos to Google Cloud Storage](https://nullonerror.org/2020/12/31/backup-your-google-photos-on-cloud/)
 <!-- BLOG:END -->
 [Read more](https://nullonerror.org/)
 
