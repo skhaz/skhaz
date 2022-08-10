@@ -4,7 +4,7 @@
 
 Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 
-## Tools
+### Tools
 
 <img align="right" src="https://i.giphy.com/media/QQQoLTqkm7v3y/giphy.webp" />
 
