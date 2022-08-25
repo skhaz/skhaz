@@ -52,8 +52,8 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 - [Building a high scalable voting system](https://nullonerror.org/2022/03/12/building-a-high-scalable-voting-system/)
 - [Gunicorn hot reload with Docker Compose](https://nullonerror.org/2021/11/12/gunicorn-hot-reload-with-docker-compose/)
 - [Accessing Google Firestore on Vercel](https://nullonerror.org/2021/06/14/accessing-google-firestore-on-vercel/)
-  <!-- BLOG:END -->
-  [Read More](https://nullonerror.org/)
+<!-- BLOG:END -->
+- [Read More](https://nullonerror.org/)
 
 ### GitHub Stats
 
