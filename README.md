@@ -40,7 +40,7 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 ### Recent Blog Posts
 
 <!-- BLOG:START -->
-- [Operating a Google Kubernetes Cluster Using TypeScript](https://nullonerror.org/2022/08/21/operating-a-google-kubernetes-cluster-using-typeScript/)
+- [Operating a Google Kubernetes Cluster Using TypeScript](https://nullonerror.org/2022/08/21/operating-a-google-kubernetes-cluster-using-typescript/)
 - [Go RESTful APIs, The Practical Way](https://nullonerror.org/2022/07/30/go-restful-api-the-practical-way/)
 - [Add jemalloc to your Python Docker images](https://nullonerror.org/2022/03/16/add-jemalloc-to-your-python-docker-images/)
 - [Building a high scalable voting system](https://nullonerror.org/2022/03/12/building-a-high-scalable-voting-system/)
