@@ -37,6 +37,12 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon AWS" width="40" height="40" /></a>
 <a href="https://www.heroku.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40" /></a>
 
+### Connect With Me
+
+<a href="https://www.linkedin.com/in/skhaz/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
+<a href="https://twitter.com/skhaz" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="40" height="40" /></a>
+<a href="mailto:rodrigodelduca@gmail.com	" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
+
 ### Recent Blog Posts
 
 <!-- BLOG:START -->
@@ -46,8 +52,8 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 - [Building a high scalable voting system](https://nullonerror.org/2022/03/12/building-a-high-scalable-voting-system/)
 - [Gunicorn hot reload with Docker Compose](https://nullonerror.org/2021/11/12/gunicorn-hot-reload-with-docker-compose/)
 - [Accessing Google Firestore on Vercel](https://nullonerror.org/2021/06/14/accessing-google-firestore-on-vercel/)
-<!-- BLOG:END -->
-[Read more](https://nullonerror.org/)
+  <!-- BLOG:END -->
+  [Read more](https://nullonerror.org/)
 
 ### GitHub Stats
 
