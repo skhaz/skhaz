@@ -47,9 +47,9 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 ### Recent Blog Posts
 
 <!-- BLOG:START -->
-- [Kind &lpar;Kubernetes in Docker&rpar; with Docker Compose](https://nullonerror.org/2022/08/26/kind-kubernetes-with-docker-compose/)
-- [Operating a Google Kubernetes Cluster Using TypeScript](https://nullonerror.org/2022/08/21/operating-a-google-kubernetes-cluster-using-typescript/)
-- [Go RESTful APIs, The Practical Way](https://nullonerror.org/2022/07/30/go-restful-api-the-practical-way/)
+- [Kind &lpar;Kubernetes in Docker&rpar; with Docker compose](https://nullonerror.org/2022/08/26/kind-kubernetes-with-docker-compose/)
+- [Operating a Google Kubernetes cluster using TypeScript](https://nullonerror.org/2022/08/21/operating-a-google-kubernetes-cluster-using-typescript/)
+- [Go RESTful APIs, the practical way](https://nullonerror.org/2022/07/30/go-restful-api-the-practical-way/)
 - [Add jemalloc to your Python Docker images](https://nullonerror.org/2022/03/16/add-jemalloc-to-your-python-docker-images/)
 - [Building a high scalable voting system](https://nullonerror.org/2022/03/12/building-a-high-scalable-voting-system/)
 - [Gunicorn hot reload with Docker Compose](https://nullonerror.org/2021/11/12/gunicorn-hot-reload-with-docker-compose/)
