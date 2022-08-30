@@ -4,7 +4,7 @@
 
 Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 
-### Languages and Tools
+### Languages And Tools
 
 <img align="right" src="https://i.giphy.com/media/QQQoLTqkm7v3y/giphy.webp" />
 
@@ -41,11 +41,13 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 
 <a href="mailto:rodrigodelduca@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/skhaz/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
+
 <!-- <a href="https://twitter.com/skhaz" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="40" height="40" /></a> -->
 
 ### Recent Blog Posts
 
 <!-- BLOG:START -->
+
 - [Operating a Google Kubernetes Cluster Using TypeScript](https://nullonerror.org/2022/08/21/operating-a-google-kubernetes-cluster-using-typescript/)
 - [Go RESTful APIs, The Practical Way](https://nullonerror.org/2022/07/30/go-restful-api-the-practical-way/)
 - [Add jemalloc to your Python Docker images](https://nullonerror.org/2022/03/16/add-jemalloc-to-your-python-docker-images/)
