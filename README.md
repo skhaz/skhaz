@@ -12,6 +12,7 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" /></a>
 <a href="https://go.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="40" height="40" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" /></a>
 
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="40" height="40" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" /></a>
@@ -20,6 +21,7 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="NextJS" width="40" height="40" /></a>
 <a href="https://www.android.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40" /></a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" width="40" height="40" /></a>
 
 <a href="https://redis.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40" /></a>
@@ -31,6 +33,7 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" /></a>
 <a href="https://argoproj.github.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo" width="40" height="40" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" /></a>
+<a href="https://www.kernel.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" /></a>
 
 <a href="https://www.cloudflare.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" /></a>
@@ -46,6 +49,7 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 ### Recent Blog Posts
 
 <!-- BLOG:START -->
+
 - [Kubernetes in Docker with Docker compose](https://nullonerror.org/2022/08/26/kind-kubernetes-with-docker-compose/)
 - [Operating a Google Kubernetes cluster using TypeScript](https://nullonerror.org/2022/08/21/operating-a-google-kubernetes-cluster-using-typescript/)
 - [Go RESTful APIs, the practical way](https://nullonerror.org/2022/07/30/go-restful-api-the-practical-way/)
