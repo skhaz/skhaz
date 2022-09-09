@@ -50,7 +50,6 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 ### Recent Blog Posts
 
 <!-- BLOG:START -->
-
 - [Kubernetes in Docker with Docker compose](https://nullonerror.org/2022/08/26/kind-kubernetes-with-docker-compose/)
 - [Operating a Google Kubernetes cluster using TypeScript](https://nullonerror.org/2022/08/21/operating-a-google-kubernetes-cluster-using-typescript/)
 - [Go RESTful APIs, the practical way](https://nullonerror.org/2022/07/30/go-restful-api-the-practical-way/)
