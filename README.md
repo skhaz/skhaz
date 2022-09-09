@@ -40,6 +40,7 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 <a href="https://www.heroku.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40" /></a>
 
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" width="40" height="40" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="40" height="40" /></a>
 
 ### Connect With Me
 
