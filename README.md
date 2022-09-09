@@ -21,7 +21,6 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="NextJS" width="40" height="40" /></a>
 <a href="https://www.android.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40" /></a>
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" width="40" height="40" /></a>
 
 <a href="https://redis.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40" /></a>
@@ -39,6 +38,8 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon AWS" width="40" height="40" /></a>
 <a href="https://www.heroku.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40" /></a>
+
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" width="40" height="40" /></a>
 
 ### Connect With Me
 
