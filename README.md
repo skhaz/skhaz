@@ -8,8 +8,8 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 
 <img align="right" src="https://i.giphy.com/media/QQQoLTqkm7v3y/giphy.webp" />
 
-<a href="https://cplusplus.com/" target="_blank"><img src="../media/c.svg?raw=true" alt="C++" width="40" height="40" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="../media/python.svg?raw=true" alt="Python" width="40" height="40" /></a>
+<a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" /></a>
 <a href="https://go.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="40" height="40" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" /></a>
