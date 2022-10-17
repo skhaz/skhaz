@@ -32,6 +32,7 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 <a href="https://www.kernel.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" /></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" /></a>
+<a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40" /></a>
 <a href="https://argoproj.github.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo" width="40" height="40" /></a>
 
 <a href="https://www.cloudflare.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40" /></a>
