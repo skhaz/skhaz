@@ -61,7 +61,7 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 
 [https://nullonerror.org/](https://nullonerror.org/)
 
-### GitHub Stats
+### GitHub
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skhaz&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skhaz&theme=github)
