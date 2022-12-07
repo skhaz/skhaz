@@ -48,7 +48,7 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 <a href="mailto:rodrigodelduca@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/skhaz/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
 
-### Recent Blog Posts
+### Blog
 
 <!-- BLOG:START -->
 - [My cloud workspace](https://nullonerror.org/2022/12/05/my-cloud-workspace/)
