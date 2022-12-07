@@ -4,7 +4,7 @@
 
 Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 
-### Languages And Tools
+### Tooling
 
 <img align="right" src="https://i.giphy.com/media/QQQoLTqkm7v3y/giphy.webp" />
 
@@ -43,7 +43,7 @@ Check out my [resume](https://gcs.skhaz.dev/resume.pdf)
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" width="40" height="40" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="40" height="40" /></a>
 
-### Connect With Me
+### Contact
 
 <a href="mailto:rodrigodelduca@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/skhaz/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
