@@ -36,7 +36,7 @@
 <a href="https://www.cloudflare.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon AWS" width="40" height="40" /></a>
-<a href="https://www.heroku.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40" /></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" /></a>
 
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" width="40" height="40" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="40" height="40" /></a>
@@ -44,11 +44,13 @@
 ### Contact
 
 <a href="mailto:rodrigodelduca@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
+<a href="https://twitter.com/skhaz" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/skhaz/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
 
 ### Blog
 
 <!-- BLOG:START -->
+
 - [Gotta go fast with Docker on macOS](https://nullonerror.org/2023/01/19/gotta-go-fast-with-docker-on-macos/)
 - [Parsing and asserting environment variables with Zod](https://nullonerror.org/2022/12/28/parsing-and-asserting-environment-variables-with-zod/)
 - [Docker multi-stage build with Poetry](https://nullonerror.org/2022/12/17/docker-multi-stage-build-with-poetry/)
