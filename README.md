@@ -50,12 +50,12 @@
 ### Blog
 
 <!-- BLOG:START -->
+- [What I’ve been automating with GitHub Actions, an automated life](https://nullonerror.org/2023/11/01/what-i-ve-been-automating-with-github-actions-an-automated-life/)
 - [Working with compressed binary data on AWS IoT Core](https://nullonerror.org/2023/10/17/working-with-compressed-binary-data-on-aws-iot-core/)
 - [Gotta go fast with Docker on macOS](https://nullonerror.org/2023/01/19/gotta-go-fast-with-docker-on-macos/)
 - [Parsing and asserting environment variables with Zod](https://nullonerror.org/2022/12/28/parsing-and-asserting-environment-variables-with-zod/)
 - [Docker multi-stage build with Poetry](https://nullonerror.org/2022/12/17/docker-multi-stage-build-with-poetry/)
 - [My cloud workspace](https://nullonerror.org/2022/12/05/my-cloud-workspace/)
-- [Asynchronous and generator-based HTTP proxy in Python](https://nullonerror.org/2022/11/05/asynchronous-and-generator-based-http-proxy-in-python/)
 <!-- BLOG:END -->
 
 [https://nullonerror.org/](https://nullonerror.org/)
