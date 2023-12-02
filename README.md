@@ -51,7 +51,7 @@
 
 <!-- BLOG:START -->
 - [Executing Untrusted Code in Serverless Environments: A Telegram Bot for Running C and C++ Code on Cloud Run](https://nullonerror.org/2023/12/01/executing-untrusted-code-in-serverless-environments-a-telegram-bot-for-running-c-and-c++-code-on-cloud-run/)
-- [Flipping bits whilst updating pixels](https://nullonerror.org/2023/11/12/flipping-bits-whilst-updating-pixels/)
+- [Flipping Bits Whilst Updating Pixels](https://nullonerror.org/2023/11/12/flipping-bits-whilst-updating-pixels/)
 - [What I’ve been automating with GitHub Actions, an automated life](https://nullonerror.org/2023/11/01/what-i-ve-been-automating-with-github-actions-an-automated-life/)
 - [Working with compressed binary data on AWS IoT Core](https://nullonerror.org/2023/10/17/working-with-compressed-binary-data-on-aws-iot-core/)
 - [Gotta go fast with Docker on macOS](https://nullonerror.org/2023/01/19/gotta-go-fast-with-docker-on-macos/)
