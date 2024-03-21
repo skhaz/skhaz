@@ -50,12 +50,12 @@
 ### Blog
 
 <!-- BLOG:START -->
+- [My 2024 Setup](https://nullonerror.org/2024/03/20/my-2024-setup/)
 - [Mastering Atomic Complex Operations in Redis: Unlocking High-Performance Data Handling With Lua](https://nullonerror.org/2024/03/06/mastering-atomic-complex-operations-in-redis-unlocking-high-performance-data-handling-with-lua/)
 - [2023 was a productive year](https://nullonerror.org/2023/12/18/2023-was-a-productive-year/)
 - [Executing Untrusted Code in Serverless Environments: A Telegram Bot for Running C and C++ Code on Cloud Run](https://nullonerror.org/2023/12/01/executing-untrusted-code-in-serverless-environments-a-telegram-bot-for-running-c-and-c++-code-on-cloud-run/)
 - [Flipping Bits Whilst Updating Pixels](https://nullonerror.org/2023/11/12/flipping-bits-whilst-updating-pixels/)
 - [What I’ve been automating with GitHub Actions, an automated life](https://nullonerror.org/2023/11/01/what-i-ve-been-automating-with-github-actions-an-automated-life/)
-- [Working with compressed binary data on AWS IoT Core](https://nullonerror.org/2023/10/17/working-with-compressed-binary-data-on-aws-iot-core/)
 <!-- BLOG:END -->
 
 [https://nullonerror.org/](https://nullonerror.org/)
