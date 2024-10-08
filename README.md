@@ -50,12 +50,12 @@
 ### Blog
 
 <!-- BLOG:START -->
+- [My First Game with Carimbo, My Homemade Engine](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
 - [How I saved a few dozen dollars by migrating my personal projects from the cloud to a Raspberry Pi](https://nullonerror.org/2024/06/05/how-i-saved-a-few-dozen-dollars-by-migrating-my-personal-projects-from-the-cloud-to-a-raspberry-pi/)
 - [My 2024 Setup](https://nullonerror.org/2024/03/20/my-2024-setup/)
 - [Mastering Atomic Complex Operations in Redis: Unlocking High-Performance Data Handling With Lua](https://nullonerror.org/2024/03/06/mastering-atomic-complex-operations-in-redis-unlocking-high-performance-data-handling-with-lua/)
 - [2023 was a productive year](https://nullonerror.org/2023/12/18/2023-was-a-productive-year/)
 - [Executing Untrusted Code in Serverless Environments: A Telegram Bot for Running C and C++ Code on Cloud Run](https://nullonerror.org/2023/12/01/executing-untrusted-code-in-serverless-environments-a-telegram-bot-for-running-c-and-c++-code-on-cloud-run/)
-- [Flipping Bits Whilst Updating Pixels](https://nullonerror.org/2023/11/12/flipping-bits-whilst-updating-pixels/)
 <!-- BLOG:END -->
 
 [https://nullonerror.org/](https://nullonerror.org/)
