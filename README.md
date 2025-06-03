@@ -48,12 +48,12 @@
 ### Blog
 
 <!-- BLOG:START -->
+- [How to avoid dynamic linking of Steam’s client library using a very old trick](https://nullonerror.org/2025/06/03/how-to-avoid-dynamic-linking-of-steam-s-client-library-using-a-very-old-trick/)
 - [I’ve built an IoT device to let my family know when I’m in a meeting](https://nullonerror.org/2025/05/11/i-have-built-an-iot-device-to-let-my-family-know-when-i-am-in-a-meeting/)
 - [Building and Publishing Games to Steam Directly from GitHub Actions](https://nullonerror.org/2025/03/23/building-and-publishing-games-to-steam-directly-from-gitHub-actions/)
 - [My First Game with Carimbo, My Homemade Engine, For my Son](https://nullonerror.org/2024/10/08/my-first-game-with-carimbo/)
 - [How I saved a few dozen dollars by migrating my personal projects from the cloud to a Raspberry Pi](https://nullonerror.org/2024/06/05/how-i-saved-a-few-dozen-dollars-by-migrating-my-personal-projects-from-the-cloud-to-a-raspberry-pi/)
 - [My 2024 Setup](https://nullonerror.org/2024/03/20/my-2024-setup/)
-- [Mastering Atomic Complex Operations in Redis: Unlocking High-Performance Data Handling With Lua](https://nullonerror.org/2024/03/06/mastering-atomic-complex-operations-in-redis-unlocking-high-performance-data-handling-with-lua/)
 <!-- BLOG:END -->
 
 [https://nullonerror.org/](https://nullonerror.org/)
