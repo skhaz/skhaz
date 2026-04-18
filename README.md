@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/skhaz?label=Follow&style=social)](https://github.com/skhaz)
 
-<img align="right" src="https://i.giphy.com/media/QQQoLTqkm7v3y/giphy.webp" />
+<img src="https://i.giphy.com/media/QQQoLTqkm7v3y/giphy.webp" />
 
 ### Blog
 
