@@ -7,12 +7,12 @@
 ### Blog
 
 <!-- BLOG:START -->
+- [As gambiarras mais impiedosas que já fiz: parte 1](https://nullonerror.org/2026/08/12/as-gambiarras-mais-impiedosas-que-ja-fiz-parte-1/)
 - [Nostalgia](https://nullonerror.org/2026/08/07/nostalgia/)
 - [Hiding information inside images](https://nullonerror.org/2026/02/13/hiding-information-inside-images/)
 - [Carimbo now have a better stack trace and Sentry integration](https://nullonerror.org/2025/09/11/carimbo-now-have-a-better-stack-trace-and-sentry-integration/)
 - [Replacing Lua’s math.random module with the Xorshift algorithm](https://nullonerror.org/2025/08/02/replacing-lua-s-math-random-module-with-the-xorshift-algorithm/)
 - [Poor’s Man Shaders](https://nullonerror.org/2025/07/29/poor-s-man-shaders/)
-- [AI will replace programmers—just not yet, because it still generates very extremely inefficient code.](https://nullonerror.org/2025/07/12/ai-will-replace-programmers-just-not-yet-because-it-currently-generates-extremely-inefficient-code/)
 <!-- BLOG:END -->
 
 [https://nullonerror.org/](https://nullonerror.org/)
